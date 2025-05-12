@@ -9,3 +9,7 @@ Add `<h1>` and `<h2>` header.
 ```javascript
 let activity = "Adding a code example";
 ```
+## Activity: Add a task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
