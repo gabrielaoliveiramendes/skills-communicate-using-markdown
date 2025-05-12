@@ -4,3 +4,8 @@ Add `<h1>` and `<h2>` header.
 
 ## Activity: Adding an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Activity: Adding a code example
+```javascript
+let activity = "Adding a code example";
+```
